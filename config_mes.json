@@ -1,0 +1,36 @@
+{
+    "pratos": [
+        {
+            "nome": "PANQUECA CARNE",
+            "preco": "70.00"
+        },
+        {
+            "nome": "PANQUECA DE FRANGO",
+            "preco": "70.00"
+        }
+    ],
+    "sobremesas": [
+        {
+            "nome": "PUDIM",
+            "preco": "40.00"
+        },
+        {
+            "nome": "GANACHE",
+            "preco": "40.00"
+        }
+    ],
+    "compras": [
+        {
+            "nome": "TESTE1",
+            "qtd": "5",
+            "un": "kg",
+            "custo": "600.00"
+        },
+        {
+            "nome": "TESTE2",
+            "qtd": "5",
+            "un": "kg",
+            "custo": "600.00"
+        }
+    ]
+}
